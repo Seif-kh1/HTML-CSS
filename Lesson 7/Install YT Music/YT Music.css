@@ -1,0 +1,28 @@
+.notification
+{
+  background-color: #1d1d1d;
+  width: 370px;
+}
+
+.title , .subtitle
+{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.title
+{
+  margin: 0px;
+  font-size: 22px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.subtitle
+{
+  font-size: 15px;
+  padding-bottom: 20px;
+  color: gray;
+}

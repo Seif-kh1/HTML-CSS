@@ -1,0 +1,50 @@
+.title
+{
+  margin-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  font-size: 13px;
+  width: 50px;
+}
+
+
+
+.input-mail
+{
+  width: 200px;
+  margin-bottom: 0px;
+}
+
+.Agree-btn
+{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #26579e;
+  border-radius: 50px;
+  color: white;
+  margin-top: 20px;
+  width: 208px;
+  border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  cursor: pointer;
+
+}
+
+.Agree-btn:hover
+{
+  opacity: 0.9;
+}
+
+.Agree-btn:active
+{
+  opacity: 0.8;
+}
+
+.PP
+{
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  font-size: 8.5px;
+}

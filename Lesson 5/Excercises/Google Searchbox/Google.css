@@ -1,0 +1,16 @@
+.search-box
+{
+  width: 400px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-radius: 50px;
+  border-color: white;
+  border-style: hidden;
+  box-shadow: 1px 0.2px 40px 0.2px gray;
+}
+
+.search-box:hover
+{
+  box-shadow: 1px 0.2px 80px 0.2px black;
+}

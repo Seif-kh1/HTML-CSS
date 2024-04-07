@@ -1,0 +1,22 @@
+.Title
+{
+  font-weight: bold;
+  font-family: Montserrat;
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+
+.subtitle
+{
+  font-family: Montserrat;
+  text-align: center;
+  font-size: 12px;
+}
+
+.Action
+{
+  font-family: Montserrat;
+  color: black;
+  font-weight: regular;
+}

@@ -1,0 +1,71 @@
+.pickup-input,
+.destination-input,
+.request-btn,
+.schedule-btn,
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  display: block;
+  margin-bottom: 0px;
+  margin-left: 50px;
+}
+
+.title {
+  font-size: 120px;
+  margin-bottom: 50px;
+}
+
+.pickup-input,
+.destination-input {
+  margin-left: 50px;
+  width: 1200px;
+  margin-bottom: 20px;
+  height: 120px;
+  background-color: #f0f0f0;
+  border-style: none;
+  padding-left: 30px;
+}
+
+.pickup-input:focus,
+.destination-input:focus {
+  outline: none;
+}
+
+.request-btn {
+  display: inline-block;
+  width: 450px;
+  padding-left: 10px;
+  height: 125px;
+  color: white;
+  background-color: black;
+  border-color: none;
+  margin-top: 50px;
+  cursor: pointer;
+  border-style: none;
+}
+
+.request-btn:hover {
+  opacity: 0.9;
+}
+
+.schedule-btn:hover {
+  background-color: #E0E0E0;
+}
+
+.request-btn:active,
+.schedule-btn:active {
+  opacity: 0.8;
+}
+
+.schedule-btn {
+  display: inline-block;
+  margin-top: 50px;
+  width: 500px;
+  padding-left: 10px;
+  height: 125px;
+  color: black;
+  background-color: #f0f0f0;
+  border-color: none;
+  cursor: pointer;
+  border-style: none;
+}

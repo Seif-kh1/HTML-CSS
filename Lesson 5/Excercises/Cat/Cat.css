@@ -1,0 +1,29 @@
+img
+{
+  width: 400px;
+  margin-right: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.cat
+{
+  border-radius: 20px;
+}
+
+.cats
+{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  object-position: left;
+}
+
+.catss
+{
+  width: 300px;
+  height: 300px;
+  border-radius: 500px;
+  object-fit: cover;
+  object-position: left;
+}

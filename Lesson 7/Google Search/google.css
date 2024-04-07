@@ -1,0 +1,80 @@
+.logo , .logo-box , .search , .search-box , .button-box , .lucky-btn , .search-btn
+{
+  font-family: Roboto;
+}
+
+.logo-box
+{
+  text-align: center;
+  display: block;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.logo
+{
+  height: 80px;
+}
+
+.search-box
+{
+  display: block;
+  text-align: center;
+}
+
+.search
+{
+  width: 450px;
+  height: 30px;
+  padding-left: 15px;
+  border-radius: 50px;
+  border-style: none;
+  box-shadow: 1px 0.2px 15px 1px lightgray;
+  transition: 0.2s;
+}
+
+.search:hover
+{
+  box-shadow: 1px 0.2px 15px 8px lightgray;
+}
+
+.search:focus
+{
+  outline: none;
+  box-shadow: 1px 0.2px 15px 8px lightgray;
+}
+
+
+.button-box , .lucky-btn
+{
+  margin-top: 10px;
+  text-align: center;
+}
+
+.lucky-btn , .search-btn
+{
+  height: 35px;
+  width: 140px;
+  font-size: 15px;
+  font-weight: 500;
+  background-color: rgba(211, 211, 211, 0.4);
+  border-style: none;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.1s;
+}
+
+.search-btn
+{
+  margin-right: 20px;
+}
+
+.lucky-btn:hover , .search-btn:hover
+{
+  background-color: rgba(211, 211, 211, 0.711);
+}
+
+.lucky-btn:active , .search-btn:active
+{
+  background-color: rgba(211, 211, 211, 0.901);
+}

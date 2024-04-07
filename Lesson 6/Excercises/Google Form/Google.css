@@ -1,0 +1,28 @@
+.logo
+{
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.search-box
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  border-radius: 50px;
+  border: none;
+  box-shadow: 1px 0.2px 5px 0.2px gray;
+  width: 500px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.search-box:hover
+{
+  box-shadow: 1px 0.2px 15px 0.2px black;
+}

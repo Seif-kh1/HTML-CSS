@@ -1,0 +1,52 @@
+.first-name , .last-name , .email
+{
+  font-family: Arial, Helvetica, sans-serif;
+  width: 120px;
+  height: 35px;
+  padding-left: 10px;
+  color: black;
+  border-radius: 7px;
+  border-color: lightgray;
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 5px;
+}
+
+.first-name::placeholder
+{
+  color: gray;
+}
+
+.first-name:focus , .last-name:focus , .email:focus
+{
+  outline: none;
+}
+
+.email
+{
+  width: 260px;
+}
+
+.sign-up-btn
+{
+  height: 35px;
+  width: 275px;
+  border-radius: 7px;
+  background-color: #3a74e3;
+  color: white;
+  border-color: #3a74e3;
+  border-style: solid;
+  border-width: 1px;
+  cursor: pointer;
+}
+.sign-up-btn:hover
+{
+  background-color: #2969E0;
+  border-color: #2969E0;
+}
+
+.sign-up-btn:active
+{
+  background-color: #1F5FD6;
+  border-color: #1F5FD6;
+}

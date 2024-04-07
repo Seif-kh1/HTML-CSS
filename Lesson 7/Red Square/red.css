@@ -1,0 +1,18 @@
+.square
+{
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 500px;
+  height: 500px;
+  background-color: red;
+}
+
+.circle
+{
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 500px;
+  height: 500px;
+  background-color: green;
+  border-radius: 800px;
+}

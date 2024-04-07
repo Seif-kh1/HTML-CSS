@@ -1,0 +1,87 @@
+div
+{
+  display: inline-block;
+  text-align: middle;
+  margin-top: 20px;
+  margin-left: 0px;
+}
+p
+{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.oliver-pfp
+{
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  object-position: left;
+  border-radius: 500px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.follow-btn
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: #3f8ee9;
+  border-style: none;
+  color: white;
+  border-radius: 4px;
+  width: 70px;
+  height: 30px;
+  cursor: pointer;
+  align-items: center;
+  transition: 0.2s;
+}
+
+.follow-btn:hover
+{
+  box-shadow: 1px 1px 20px 1px #3f8ee9;
+}
+
+.follow-btn:active
+{
+  opacity: 0.8;
+}
+
+.info-oliver
+{
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.username
+{
+  font-weight: bold;
+  margin-bottom: 7px;
+}
+
+.category
+{
+  color: gray;
+  margin-bottom: 7px;
+}
+
+.row
+{
+
+}
+
+.follow-container
+{
+  margin-left: 200px;
+  padding-top: 0px;
+  position: relative;
+  top: 50%;
+  left: 20%;
+  transform: translate(-50%,-50%);
+}
+
+.follow-btn
+{
+
+}
