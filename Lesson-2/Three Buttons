@@ -1,0 +1,37 @@
+<style>
+
+.one-button , .two-button , .three-button
+{
+  background-color: green;
+  color: white;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-right: 15px;
+  border: none;
+  font-size: 15px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.one-button:hover , .two-button:hover , .three-button:hover
+{
+padding-right: 25px;
+padding-left: 25px;
+
+}
+
+</style>
+
+<button class="one-button">
+  One
+</button>
+
+<button class="two-button">
+  Two
+</button>
+
+<button class="three-button">
+  Three
+</button>
